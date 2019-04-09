@@ -1,0 +1,9 @@
+{
+	"redmine_url" : "https://gitlab.com/bweber.bg/bverwg.git",
+    "api_token": "vrb5yic6hzfGoy_3xB2g",
+    "projects_filter": [],
+    "list_page_size": 40,
+    "syntax_file": "Packages/StGitlab/StGitlab.sublime-syntax",
+    "syntax_file_edit": "Packages/MarkdownEditing/Markdown.sublime-syntax",
+    "ssl_verify": true,
+}
